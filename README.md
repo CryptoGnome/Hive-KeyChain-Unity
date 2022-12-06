@@ -1,6 +1,10 @@
 # Hive-Wallet-Template
 I wanted to create an example project to help the community learn how to connect Hive Keychain to a Unity project, this should be helpful for game and application developers looking for a easy to setup option.
 
+
+[Learn more on the Full Hive Post & Follow me for updates!](https://peakd.com/hivedevs/@crypt0gnome/introducing-hive-keychain-for-unity?ref=crypt0gnome)
+
+
 ![image](https://user-images.githubusercontent.com/33667144/205946681-6c00768f-f1fc-49b1-b7df-e0230effe545.png)
 
 
